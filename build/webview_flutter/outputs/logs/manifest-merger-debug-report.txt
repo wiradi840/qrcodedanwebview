@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml:1:1-2:12
+INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml:1:1-2:12
+INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml:1:1-2:12
+	package
+		ADDED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml:1:11-54
+		INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+		INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml:1:1-2:12
+uses-sdk
+INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+		ADDED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
+		INJECTED from E:\MATERI SMESTER 4\P.Mobile\flutter_windows_1.17.1-stable\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter-0.3.20+2\android\src\main\AndroidManifest.xml
